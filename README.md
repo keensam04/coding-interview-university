@@ -179,6 +179,7 @@ If you want to be a reliability engineer or operations engineer, study more from
 - [Video Series](#video-series)
 - [Computer Science Courses](#computer-science-courses)
 - [Papers](#papers)
+- [Links](#links)
 
 </details>
 
@@ -2075,6 +2076,15 @@ Sit back and enjoy. "Netflix and skill" :P
 - [ ] [2015: TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf )
 - [ ] [2015: How Developers Search for Code: A Case Study](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43835.pdf)
 - [ ] [2016: Borg, Omega, and Kubernetes](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf)
+
+</details>
+
+## Links
+
+<details>
+<summary>Links</summary>
+    
+- [ ] [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
 </details>
 
